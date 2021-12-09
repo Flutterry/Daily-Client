@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="83" height="83" viewBox="0 0 83 83">
+  <defs>
+    <filter id="Ellipse_6" x="0" y="0" width="83" height="83" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Home" transform="translate(9 9)">
+    <g transform="matrix(1, 0, 0, 1, -9, -9)" filter="url(#Ellipse_6)">
+      <circle id="Ellipse_6-2" data-name="Ellipse 6" cx="32.5" cy="32.5" r="32.5" transform="translate(9 9)" fill="#eb0521"/>
+    </g>
+    <g id="Group_66550" data-name="Group 66550" transform="translate(-206.225 -147.905)">
+      <g id="Polygon_3" data-name="Polygon 3" transform="translate(212.076 175.934) rotate(-30)" fill="#eb0521">
+        <path d="M 29.72167015075684 33.85873794555664 L 10.59846782684326 33.85873794555664 L 1.040427684783936 17.37936782836914 L 10.59846782684326 0.8999978303909302 L 29.72167015075684 0.8999978303909302 L 39.27970886230469 17.37936782836914 L 29.72167015075684 33.85873794555664 Z" stroke="none"/>
+        <path d="M 11.11688995361328 1.799999237060547 L 2.080852508544922 17.37936782836914 L 11.11688041687012 32.95873641967773 L 29.2032470703125 32.95873641967773 L 38.23928451538086 17.37936782836914 L 29.2032470703125 1.799999237060547 L 11.11688995361328 1.799999237060547 M 10.08003807067871 -3.814697265625e-06 L 30.24009895324707 -3.814697265625e-06 L 40.32013702392578 17.37936782836914 L 30.24009895324707 34.75873947143555 L 10.08002853393555 34.75873947143555 L 0 17.37936782836914 L 10.08003807067871 -3.814697265625e-06 Z" stroke="none" fill="#fff"/>
+      </g>
+      <path id="Path_1433" data-name="Path 1433" d="M.421,24.063,0,7.442,14.256,0V16.047Z" transform="matrix(1, 0.017, -0.017, 1, 238.436, 172.162)" fill="#f8c51c"/>
+    </g>
+  </g>
+</svg>
