@@ -11,7 +11,7 @@ import GoogleMaps
   ) -> Bool {
     GeneratedPluginRegistrant.register(with: self)
     FirebaseApp.configure()
-    GMSServices.provideAPIKey("AIzaSyCWG9uWoF5pG4WxvAliF1IHmnHVmIrgAwQ")
+    GMSServices.provideAPIKey("********************")
     return super.application(application, didFinishLaunchingWithOptions: launchOptions)
   }
 }

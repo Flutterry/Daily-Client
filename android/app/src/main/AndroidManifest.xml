@@ -11,7 +11,7 @@
 
         <!-- Flutter Packages meta-data. -->
         <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyCWG9uWoF5pG4WxvAliF1IHmnHVmIrgAwQ"/>
+               android:value="********************"/>
         <!-- ********************************* -->
 
         <activity

@@ -1,12 +1,12 @@
 import 'dart:io';
 
-const googleApiKey = 'AIzaSyCWG9uWoF5pG4WxvAliF1IHmnHVmIrgAwQ';
+const googleApiKey = '*****************';
 
 const huaweiGalleryLink = '';
 const googlePlayLink = '';
 const appStoreLink = '';
 
-const baseApi = 'http://134.209.233.79/api/customer/';
+const baseApi = '*********************';
 
 final versionApi = 'version/${Platform.isAndroid ? 'android' : 'ios'}';
 const tokenApi = 'update-notification-token';

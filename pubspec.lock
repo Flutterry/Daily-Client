@@ -70,14 +70,14 @@ packages:
       path: "packages/chaotic"
       relative: true
     source: path
-    version: "2.10.8"
+    version: "2.10.9"
   chaotic_helper:
     dependency: "direct dev"
     description:
       path: "packages/chaotic_helper"
       relative: true
     source: path
-    version: "1.11.2"
+    version: "1.11.3"
   characters:
     dependency: transitive
     description:
